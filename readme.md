@@ -37,6 +37,6 @@ Les images ci-dessous montrent quelques exemples de pixel art généré à parti
 Pour utiliser ce projet, assurez-vous d'avoir Python et PIL installés. Clonez ce dépôt et exécutez le script Python pour générer votre propre pixel art.
 
 ```bash
-git clone https://github.com/votre_username/votre_projet.git
-cd votre_projet
-python script_pixel_art.py
+git clone https://github.com/dimaland1/PixelArtGenerator.git
+cd PixelArtGenerator
+python main.py
