@@ -27,11 +27,11 @@ La palette utilisée dans ce projet comprend les couleurs suivantes :
 Les images ci-dessous montrent quelques exemples de pixel art généré à partir de ce projet :
 - Image d'un chien (couleurs limitées à la palette ci-dessus)
 
-![image original]("image/labrador.png")
+![image original](image/labrador.png)
 
-![image pixélisé colorier]("output/labrador_blank.png")
+![image pixélisé colorier](output/labrador_blank.png)
 
-![image pixélisé vide]("output/labrador_colored.png")
+![image pixélisé vide](output/labrador_colored.png)
 
 ## Installation et Utilisation
 Pour utiliser ce projet, assurez-vous d'avoir Python et PIL installés. Clonez ce dépôt et exécutez le script Python pour générer votre propre pixel art.
